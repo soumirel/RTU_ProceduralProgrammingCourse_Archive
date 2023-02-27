@@ -1,0 +1,4 @@
+Hello, C++!
+123 Informatika 456
+ahahahha 789
+000
